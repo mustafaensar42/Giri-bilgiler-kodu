@@ -4,7 +4,7 @@ While döngüsü, if-else ve break kullanarak kullanıcı ve admin doğrulaması
 
 ## Kullanılan Konseptler
 - input() ile veri alma
-- if-elif-else ile koşul kontrolü
+- if-else ile koşul kontrolü
 - while döngüsü ve break kullanımı
 
 ## Kullanım
